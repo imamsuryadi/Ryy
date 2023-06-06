@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-- ✨ Creating bugs since 2021
+- ✨ Creating bugs since 2023
 
 - 🌱 I’m currently learning Flutter and backend development
 
@@ -21,7 +21,7 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
-  <a href="https://flutter.dev/">
+  <a href="https://www.canva.com/">
     <img height='25em' src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   </a>
   <a href="https://android.com">
