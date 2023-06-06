@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Imam Suryadi</h1>
 
-<h3 align="center">A passionate mobile developer from Indonesia</h3>
+<h3 align="center">A passionate Web UI Developer / HTML, CSS, UX/UI, from Indonesia</h3>
 
 - ✨ Creating bugs since 2023
 
