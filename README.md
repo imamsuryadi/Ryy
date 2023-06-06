@@ -22,7 +22,7 @@
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.canva.com/">
-    <img height='25em' src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img height='25em' src="https://cdn1-production-images-kly.akamaized.net/5JPV2GtkWrF1TDLuMGLXNKfqBQs=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3135784/original/070659700_1590250157-1200x630wa.jpg" />
   </a>
   <a href="https://android.com">
     <img height='25em' src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
