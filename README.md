@@ -24,7 +24,7 @@
   <a href="https://www.canva.com/">
     <img height='25em' src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" />
   </a>
-  <a href="https://android.com">
+  <a href="https://www.adobe.com/products/photoshop.html">
     <img height='25em' src="https://www.pinhome.id/blog/wp-content/uploads/2021/05/knowlegdecom-my.webp" />
   </a>
   <a href="https://kotlinlang.org/">
