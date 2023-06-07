@@ -25,7 +25,7 @@
     <img height='25em' src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" />
   </a>
   <a href="https://android.com">
-    <img height='25em' src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" />
+    <img height='25em' src="https://www.pinhome.id/blog/wp-content/uploads/2021/05/knowlegdecom-my.webp" />
   </a>
   <a href="https://kotlinlang.org/">
     <img height='25em' src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
