@@ -28,7 +28,7 @@
     <img height='25em' src="https://www.pinhome.id/blog/wp-content/uploads/2021/05/knowlegdecom-my.webp" />
   </a>
   <a href="https://kotlinlang.org/">
-    <img height='25em' src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img height='25em' src="https://www.instagram.com/p/CtG0daOPyca/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==" />
   </a>
   <a href="https://www.php.net/">
     <img height='25em' src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
