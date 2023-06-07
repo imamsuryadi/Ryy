@@ -25,7 +25,7 @@
     <img height='25em' src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" />
   </a>
   <a href="https://android.com">
-    <img height='25em' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABZElEQVR4Ae2URVYEQRBEe4dcAIer1H5ki6xquAC2H70Hegq09uhR6jFLLOnASaT8jeZ7MT4dvzIzOhuWqXRxVrRLc6pdnte5iIs2V3/XVkXRupRB5rfF2Ro3NAMwrcu638lLcxIGngAcQjgDoO3RADYqyh0ABvEAtPv8sXSRAKCOjgCJ8IpfxCWUnjGc71AMeRxLC8oRQKPttIX4BdbBEolcam+F9P4yEdf77yaP78XUyZOaPnnSuQivJ48eZJD53hLVuCFXBvPTxxpMf9Xxvd8IdpZImswhnJKbck0ek/BpvbIBQKtNAPiNM4CFOQQDG2lnACydJYC2gXAH6PAIsITCBgDxMwF4x/GgUzHkceTj4AAonPLLODReoztZaI3etMTYTUuN37R0LuLK0hXMmzVuyJXSXMKgYwBoe0cBmFFHAHTXjwC/SbeEF3VhAsCidiiGMG/wO1y6OH4Zh8Zr3JyySPUMD+KthXmsO0kAAAAASUVORK5CYII=" />
+    <img height='25em' src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" />
   </a>
   <a href="https://kotlinlang.org/">
     <img height='25em' src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
